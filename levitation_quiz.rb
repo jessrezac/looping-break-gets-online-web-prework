@@ -1,3 +1,4 @@
+answer = "Wingardium Leviosa"
 
 def levitation_quiz
     loop do
