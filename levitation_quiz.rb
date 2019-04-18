@@ -1,4 +1,4 @@
-answer = "Wingardium Leviosa"
+answer = gets.chomp
 
 def levitation_quiz
     loop do
